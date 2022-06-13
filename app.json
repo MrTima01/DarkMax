@@ -19,7 +19,7 @@
         "ALIVE_LOGO": {
             "description": "If you do not want to change Alive Logo put here to your image direct link or, type default. ඔබගෙ alive logo එක සාදහා ඔබෙ logo එකක් යේදිමට අවශ්‍ය නම් මෙහි link එක යොදන්න.",
             "required": false,
-            "value": "default"
+            "value": "https://i.ibb.co/YcBZhTN/4a13d132-a99b-4b07-9309-25b1d0b1c231-jpg.jpg"
         },
         "SONG_UPLOAD": {
             "description": "SONG UPLOAFING MESSAGE අවශ්‍ය නම් මෙය වෙනස් කරගන්න.",
