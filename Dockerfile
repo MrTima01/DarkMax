@@ -2,8 +2,7 @@
 
 /*
 
-### DOCKERFILE@cd.?import
-hidden codes.mr.tima?
+#########№ ∞№ №
 
 
 
